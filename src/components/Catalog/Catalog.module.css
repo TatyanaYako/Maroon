@@ -1,0 +1,22 @@
+.catalog_wripper {
+	padding: 149px 98px 0;
+}
+
+.catalog {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 140px;
+}
+
+.catalog_title {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30px;
+}
+
+.catalog_title a {
+	border: 1px solid #b3bac1;
+	box-sizing: border-box;
+	border-radius: 2px;
+	padding: 13px 41px 16px;
+}

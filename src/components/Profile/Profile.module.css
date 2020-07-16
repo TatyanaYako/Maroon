@@ -1,0 +1,24 @@
+.profile_wripper {
+	padding: 149px 98px 140px;
+	width: 500px;
+}
+
+.profile_wripper input {
+	height: 75px;
+	border: none;
+	border-bottom: 1px solid #b3bac1;
+}
+
+.profile_wripper input[type='button']{
+	background-color:  #f4f1ed;
+}
+
+.exit_conteiner {
+	display: flex;
+	flex-direction: column;
+}
+
+.registration_conteiner {
+	display: flex;
+	flex-direction: column;
+}

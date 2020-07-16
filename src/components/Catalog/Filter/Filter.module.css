@@ -1,0 +1,23 @@
+.filter_wripper {
+	display: flex;
+	flex-direction: column;
+	max-height: 250px;
+	flex-wrap: wrap;
+	width: 700px;
+	margin: 0 auto;
+}
+
+.filter_title {
+	display: flex;
+	width: 695px;
+	margin: 0 auto;
+}
+
+.filter_title h4:nth-child(1){
+	margin-right: 75px;
+}
+
+.filter_title h4:nth-child(2){
+	margin-right: 155px;
+}
+

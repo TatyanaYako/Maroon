@@ -1,0 +1,14 @@
+.new_collection{
+	background-image: url('./banner.jpg');
+	background-size: cover;
+	height: 400px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-bottom: 140px;
+}
+
+.new_collection_content{
+	max-width: 284px;
+	margin-right: 284px;
+}

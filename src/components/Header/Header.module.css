@@ -1,0 +1,19 @@
+.header {
+	position: fixed;
+}
+
+.header_conteiner {
+	display: flex;
+	justify-content: space-between;
+	padding: 40px 98px;
+	width: 1170px;
+}
+
+.nav {
+	display: flex;
+}
+
+.header_logo {
+	width: 131px;
+	height: 21px;
+}

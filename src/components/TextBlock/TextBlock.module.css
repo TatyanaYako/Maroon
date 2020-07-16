@@ -1,0 +1,27 @@
+.text_block {
+	display: flex;
+	flex-direction: column;
+	flex: 1 1 200px;
+	max-width: 400px;
+}
+
+.text_block a {
+	display: inline-block;
+	border: 1px solid #b3bac1;
+	padding: 13px 27px 16px;
+	max-width: 200px;
+	box-sizing: border-box;
+	margin-top: 35px;
+}
+
+.text_block p {
+	font-size: 18px;
+	line-height: 145%;
+	margin-bottom: 5px;
+}
+
+.text_block h3 {
+	font-weight: 500;
+	font-size: 32px;
+	margin-bottom: 30px;
+}

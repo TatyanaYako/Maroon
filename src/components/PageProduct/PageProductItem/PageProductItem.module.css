@@ -1,0 +1,19 @@
+.product{
+	display: block;
+	padding: 141px 198px 0 98px;
+	margin-bottom: 140px;
+}
+
+.product_page{
+	display: flex;
+	justify-content: space-between;
+}
+
+.product_page img{
+	width: 630px;
+}
+
+.product_description{
+	max-width: 370px;
+	margin-top: 49px;
+}

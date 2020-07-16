@@ -1,0 +1,17 @@
+.individual{
+	padding: 0 98px;
+	display: flex;
+	align-items: center;
+}
+
+.individual_block {
+	box-sizing: border-box;
+	width: 670px;
+	background: #F4F1ED;
+	padding: 100px 231px 100px 100px;
+}
+
+.individual img{
+	margin-left: -170px;
+}
+

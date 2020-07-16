@@ -1,0 +1,10 @@
+.follow_image{
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 750px;
+}
+
+.follow_image img{
+	width: 233px;
+	height: 233px;
+}

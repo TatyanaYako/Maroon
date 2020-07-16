@@ -1,0 +1,21 @@
+.footer_wripper {
+	background: #f4f1ed;
+	padding: 0 98px;
+}
+
+.footer_content {
+	padding: 60px 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer_logo {
+	width: 131px;
+	height: 21px;
+}
+
+.footer_copyright{
+	display: flex;
+	justify-content: space-between;
+	padding: 22px 0;
+}
